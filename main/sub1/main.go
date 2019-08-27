@@ -1,0 +1,6 @@
+package bbb
+
+func Xxx() {
+
+
+}
