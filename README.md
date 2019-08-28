@@ -1,8 +1,8 @@
 # go module テスト
 
 ## go modの中身
-github.comから始まるリポジトリ名にすること。この場合github.com/go-mod-testね。
-go.modで設定したパッケージ名以下のディレクトリならちゃんとgo mod edit -replaceしなくても読んでくれる。  
+github.comから始まるリポジトリ名にすること。この場合github.com/go-mod-testね。  
+go.modで設定したパッケージ名以下のディレクトリならちゃんとgo mod edit -replaceしなくても読んでくれる。   
 このリポジトリならmainもsub1もsub2もトップのgo.modで認識される。  
 
 ## これは失敗
